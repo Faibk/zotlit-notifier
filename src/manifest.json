@@ -1,7 +1,7 @@
 {
 	"manifest_version": 2,
 	"name": "Custom Zotlit Notifier",
-	"version": "0.1.2",
+	"version": "0.1.3",
 	"description": "Notifies zotlit in obsidian about tab and annotation changes",
 	"homepage_url": "https://github.com/Faibk/zotlit-notifier",
 	"applications": {
@@ -9,7 +9,7 @@
 			"id": "zotlit-notifier@faibk.github.io",
 			"update_url": "https://github.com/Faibk/zotlit-notifier/blob/master/update.json",
 			"strict_min_version": "6.999",
-			"strict_max_version": "8.*"
+			"strict_max_version": "9.*"
 		}
 	}
 }
